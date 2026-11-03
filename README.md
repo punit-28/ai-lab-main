@@ -14,11 +14,10 @@ This repository contains the complete laboratory work performed during the **Art
 
 | S.No. | Student Name | Roll Number |
 |:---:|:---|:---:|
-| 1 | Piyush Dhakad | 2024BITE013 |
-| 2 | Harshit Kamriya | 2024BITE037 |
-| 3 | Vansh Saini | 2024BITE039 |
-| 4 | Tarakshay Bhardwaj | 2024BITE049 |
-| 5 | Akashat Tiwari | 2024BITE051 |
+| 1 | Punit Mundotiya | 2024BITE064 |
+| 2 | Pappu Kumar Saini | 2024BITE070 |
+| 3 | Dinesh Saini | 2024BITE017 |
+| 4 | Gurtaj Singh | 2024BITE003 |
 
 ---
 
