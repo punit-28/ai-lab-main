@@ -11,12 +11,10 @@
 
 | S.No. | Student Name | Roll Number | Role / Contribution |
 |:---:|:---|:---:|:---|
-| 1 | **Piyush Dhakad** | `2024BITE013` | Lab Experiments & Documentation |
-| 2 | **Harshit Kamriya** | `2024BITE037` | Lab Experiments & Documentation |
-| 3 | **Vansh Saini** | `2024BITE039` | Lab Experiments & Documentation |
-| 4 | **Tarakshay Bhardwaj** | `2024BITE049` | Lab Experiments & Documentation |
-| 5 | **Akashat Tiwari** | `2024BITE051` | Lab Experiments & Documentation |
-
+| 1 | **Punit Mundotiya** | `2024BITE064` | Lab Experiments & Documentation |
+| 2 | **Pappu Kumar Saini** | `2024BITE070` | Lab Experiments & Documentation |
+| 3 | **Dinesh Saini** | `2024BITE017` | Lab Experiments & Documentation |
+| 4 | **Gurtaj Singh** | `2024BITE003` | Lab Experiments & Documentation |
 ---
 
 ## Index of Completed Experiments
