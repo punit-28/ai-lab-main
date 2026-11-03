@@ -13,8 +13,12 @@ def bfs(graph, start_node):
 
         for neighbor in graph[node]:
             if neighbor not in visited:
+<<<<<<< HEAD
                 vicler
                 sited.add(neighbor)
+=======
+                visited.add(neighbor)
+>>>>>>> origin/main
                 queue.append(neighbor)
 
     return traversal_order
